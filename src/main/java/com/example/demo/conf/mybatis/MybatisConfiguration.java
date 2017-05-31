@@ -12,6 +12,8 @@ import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import com.example.demo.conf.db.DataBaseConfiguration;
+import com.example.demo.plugins.mybatis.DataSourceType;
+import com.example.demo.plugins.mybatis.MyAbstractRoutingDataSource;
 
 import javax.annotation.Resource;
 import javax.sql.DataSource;
