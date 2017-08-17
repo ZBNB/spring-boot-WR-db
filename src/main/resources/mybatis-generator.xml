@@ -3,7 +3,6 @@
   PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"  
   "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
 <generatorConfiguration>
-	<!-- http://blog.csdn.net/isea533/article/details/42102297 -->
 	<!-- 配置文件路径 -->
 	<properties resource="generatorConfig.properties" />
 
